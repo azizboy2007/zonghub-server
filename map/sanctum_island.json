@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Restore",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjl0sb9gIn21hGY5BzXQLJb0utyj1U5RpHybfcuE1tYKmpVWY2JdriXiU&s=10",
+    "script": "https://github.com/missnapokita/map-script/raw/main/santrum%20backup.zip",
+    "graphics": "low"
+  },
+  {
+    "title": "Night Mode V1",
+    "image": "https://github.com/missnapokita/map-script/raw/050e62c1d064fd4621c9d73f4262cf33497cf80f/lv_0_20240914160725.gif",
+    "script": "https://github.com/missnapokita/map-script/raw/main/santrum%20night%20mode%20low.zip",
+    "graphics": "low"
+  },
+  {
+    "title": "Restore",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjl0sb9gIn21hGY5BzXQLJb0utyj1U5RpHybfcuE1tYKmpVWY2JdriXiU&s=10",
+    "script": "https://github.com/missnapokita/map-script/raw/main/santrum%20backup.zip",
+    "graphics": "high"
+  },
+  {
+    "title": "Night Mode V1",
+    "image": "https://github.com/missnapokita/map-script/raw/050e62c1d064fd4621c9d73f4262cf33497cf80f/lv_0_20240914160725.gif",
+    "script": "https://github.com/missnapokita/map-script/raw/main/santrum%20night%20mode%20high.zip",
+    "graphics": "high"
+  }
+]
