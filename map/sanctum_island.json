@@ -12,7 +12,7 @@
     "graphics": "low"
   },
   {
-  "tittle":" 515 Map",
+  "title":" 515 Map",
   "image":"https://github.com/azizboy2007/Custom-Map/raw/main/IMG%20Sanctum%20515.png",
   "script":"https://github.com/azizboy2007/Custom-Map/raw/main/MAP%20515%20Medium%20Sanctum.zip",
   "graphics":"low"
@@ -39,12 +39,6 @@
     "title": "Night Mode V1",
     "image": "https://github.com/azizboy2007/Custom-Map/raw/main/IMG%20Sanctum%20Night%20V1.jpg",
     "script": "https://github.com/missnapokita/map-script/raw/main/santrum%20night%20mode%20high.zip",
-    "graphics": "high"
-  },
-  {
-    "title": "Chinese Map",
-    "image": "https://github.com/azizboy2007/Custom-Map/raw/main/IMG%20Sanctum%20Chinese.png",
-    "script": "",
     "graphics": "high"
   },
 {
