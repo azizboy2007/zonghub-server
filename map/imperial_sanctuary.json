@@ -7,7 +7,7 @@
   },
   {
     "title": "Night Mode V1",
-    "image": "https://github.com/missnapokita/map-script/raw/0caddecd8a39054998b52a8146e1c389a69f428a/lv_0_20240913191432.gif",
+    "image": "https://github.com/azizboy2007/Custom-Map/raw/main/IMG%20Imperial%20NightMode.jpg",
     "script": "https://github.com/missnapokita/map-script/raw/main/imperial%20night%20mode%20low.zip",
     "graphics": "low"
   },
@@ -18,8 +18,14 @@
     "graphics": "high"
   },
   {
+    "title": "Old Map",
+    "image": "https://github.com/azizboy2007/Custom-Map/raw/main/IMG%20Imperial%20Old%20Map.jpg",
+    "script": "https://github.com/azizboy2007/Custom-Map/raw/main/MAP%20Old%20Map%20High%20Imperial.zip",
+    "graphics": "high"
+  },
+  {
     "title": "Night Mode V1",
-    "image": "https://github.com/missnapokita/map-script/raw/9699e12118c39e8031124e77f3b9f3838e2c09d5/lv_0_20240913191432.gif",
+    "image": "https://github.com/azizboy2007/Custom-Map/raw/main/IMG%20Imperial%20NightMode.jpg",
     "script": "https://github.com/missnapokita/map-script/raw/main/imperial%20night%20mode%20high.zip",
     "graphics": "high"
   }

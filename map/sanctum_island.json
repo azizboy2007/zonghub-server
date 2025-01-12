@@ -7,8 +7,20 @@
   },
   {
     "title": "Night Mode V1",
-    "image": "https://github.com/missnapokita/map-script/raw/050e62c1d064fd4621c9d73f4262cf33497cf80f/lv_0_20240914160725.gif",
+    "image": "https://github.com/azizboy2007/Custom-Map/raw/main/IMG%20Sanctum%20Night%20V1.jpg",
     "script": "https://github.com/missnapokita/map-script/raw/main/santrum%20night%20mode%20low.zip",
+    "graphics": "low"
+  },
+  {
+  "title":" 515 Map",
+  "image":"https://github.com/azizboy2007/Custom-Map/raw/main/IMG%20Sanctum%20515.png",
+  "script":"https://github.com/azizboy2007/Custom-Map/raw/main/MAP%20515%20Medium%20Sanctum.zip",
+  "graphics":"low"
+  },
+  {
+    "title": "Chinese Map",
+    "image": "https://github.com/azizboy2007/Custom-Map/raw/main/IMG%20Sanctum%20Chinese.png",
+    "script": "https://github.com/azizboy2007/Custom-Map/blob/main/MAP%20Chinese%20Medium%20Sanctum.zip",
     "graphics": "low"
   },
   {
@@ -18,9 +30,27 @@
     "graphics": "high"
   },
   {
+    "title": "515 Map",
+    "image": "https://github.com/azizboy2007/Custom-Map/raw/main/IMG%20Sanctum%20515.png",
+    "script": "https://github.com/azizboy2007/Custom-Map/raw/main/MAP%20515%20High%20Sanctum.zip",
+    "graphics": "high"
+  },
+  {
     "title": "Night Mode V1",
-    "image": "https://github.com/missnapokita/map-script/raw/050e62c1d064fd4621c9d73f4262cf33497cf80f/lv_0_20240914160725.gif",
+    "image": "https://github.com/azizboy2007/Custom-Map/raw/main/IMG%20Sanctum%20Night%20V1.jpg",
     "script": "https://github.com/missnapokita/map-script/raw/main/santrum%20night%20mode%20high.zip",
+    "graphics": "high"
+  },
+{
+    "title": "Chinese Map",
+    "image": "https://github.com/azizboy2007/Custom-Map/raw/main/IMG%20Sanctum%20Chinese.png",
+    "script": "https://github.com/azizboy2007/Custom-Map/raw/main/MAP%20Chinese%20High%20Sanctum.zip",
+    "graphics": "high"
+  },
+  {
+    "title": "League of Legends Map",
+    "image": "https://github.com/azizboy2007/Custom-Map/raw/main/IMG%20Lol%20map%20sanctum%20high.jpg",
+    "script": "https://github.com/azizboy2007/Custom-Map/raw/main/MAP%20LOL%20High%20Sanctum.zip",
     "graphics": "high"
   }
 ]
