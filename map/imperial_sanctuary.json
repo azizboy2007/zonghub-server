@@ -28,5 +28,11 @@
     "image": "https://github.com/azizboy2007/Custom-Map/raw/main/IMG%20Imperial%20NightMode.jpg",
     "script": "https://github.com/missnapokita/map-script/raw/main/imperial%20night%20mode%20high.zip",
     "graphics": "high"
+  },
+  {
+  "title":"Highway Map",
+  "image":"https://github.com/azizboy2007/Custom-Map/raw/main/IMG%20Highway%20High%20Imperial.jpg",
+  "script":"https://github.com/azizboy2007/Custom-Map/raw/main/MAP%20Highway%20High%20Imperial.zip",
+  "graphics":"high"
   }
 ]
