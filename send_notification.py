@@ -4,7 +4,7 @@ import jwt
 import time
 
 # Get Firebase private key from environment variable
-PRIVATE_KEY = os.getenv("FIREBASE_PRIVATE_KEY")
+PRIVATE_KEY = os.getenv("FIREBASE_PRIVATE_KEY").replace("\\n", "\n")
 SERVICE_ACCOUNT_EMAIL = "firebase-adminsdk-rl7mn@zonghub-gfx.iam.gserviceaccount.com"
 TOKEN_URI = "https://oauth2.googleapis.com/token"
 
