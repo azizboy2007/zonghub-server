@@ -1,0 +1,24 @@
+name: Firebase Notification Workflow
+
+on:
+  push:
+    branches:
+      - main  # Trigger on push to main branch
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set Firebase private key as environment variable
+        run: echo "FIREBASE_PRIVATE_KEY=${{ secrets.FIREBASE_PRIVATE_KEY }}" >> $GITHUB_ENV
+
+      - name: Install dependencies
+        run: |
+          pip install requests pyjwt
+
+      - name: Run Python script to send FCM notification
+        run: |
+          python send_notification.py
