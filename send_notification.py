@@ -32,7 +32,7 @@ def send_fcm_notification(title, body, token):
     }
     payload = {
         "message": {
-            "token": token,
+            "topic": token,
             "notification": {
                 "title": title,
                 "body": body
