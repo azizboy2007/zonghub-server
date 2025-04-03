@@ -44,5 +44,5 @@ def send_fcm_notification(title, body, token):
 
 # Example usage
 DEVICE_TOKEN = "news"
-response = send_fcm_notification("Update!", "New skin available.", DEVICE_TOKEN)
+response = send_fcm_notification("Update!", "New skin available.", DEVICE_TOKEN) 
 print(response)
