@@ -24,7 +24,7 @@ def get_access_token():
     return response.json().get("access_token")
 
 # Send notification
-def send_fcm_notification(title, body, token):
+def send_fcm_notification(title, body, token, action_data=None):
     url = "https://fcm.googleapis.com/v1/projects/zonghub-gfx/messages:send"
     headers = {
         "Authorization": f"Bearer {get_access_token()}",
@@ -36,6 +36,9 @@ def send_fcm_notification(title, body, token):
             "notification": {
                 "title": title,
                 "body": body
+            },
+	    "data": {
+                "action": action_data
             }
         }
     }
@@ -44,5 +47,6 @@ def send_fcm_notification(title, body, token):
 
 # Example usage
 DEVICE_TOKEN = "news"
-response = send_fcm_notification("Update!", "New skin available.", DEVICE_TOKEN) 
+action_data = "update_data"
+response = send_fcm_notification("Update!", "New skin available.", DEVICE_TOKEN, action_data) 
 print(response)
