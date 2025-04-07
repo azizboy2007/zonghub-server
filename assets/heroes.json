@@ -1776,5 +1776,19 @@
       "Fighter",
       ""
     ]
+  },
+  "129": {
+    "head": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Elemental_Lord.jpg/revision/latest?cb\u003d20220104081726",
+    "name": "Elemental Lord",
+    "heroid": 129,
+    "roadsortlabel": [
+      "",
+      "Jungle"
+    ],
+    "squarehead": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Elemental_Lord.jpg/revision/latest?cb\u003d20220104081726",
+    "sortlabel": [
+      "Fighter",
+      "Tank"
+    ]
   }
 }
