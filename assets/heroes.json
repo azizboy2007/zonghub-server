@@ -1790,5 +1790,19 @@
       "Fighter",
       "Tank"
     ]
+  },
+  "130": {
+    "head": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/kalea_icon.png",
+    "name": "Kalea",
+    "heroid": 130,
+    "roadsortlabel": [
+      "",
+      "Roam"
+    ],
+    "squarehead": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/kalea_icon.png",
+    "sortlabel": [
+      "Fighter",
+      "Support"
+    ]
   }
 }
