@@ -1749,24 +1749,24 @@
     "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
     "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage_92/100_8b6a9cadd1c781a56ae68b2a1ebe8d8f.jpg"
   },
-  "127": {
+  "126": {
     "head": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250113_153539.jpg",
     "name": "Suyou",
-    "heroid": 127,
+    "heroid": 126,
     "roadsortlabel": [
       "Jungle",
       "Exp Lane"
     ],
     "squarehead": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250113_153539.jpg",
     "sortlabel": [
-      "Fighter",
-      "Assassin"
+      "Assassin",
+      "Tank"
     ]
   },
-  "128": {
+  "127": {
     "head": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250113_190035.jpg",
     "name": "Lucas",
-    "heroid": 128,
+    "heroid": 127,
     "roadsortlabel": [
       "",
       "Exp Lane"
@@ -1777,32 +1777,32 @@
       ""
     ]
   },
-  "129": {
-    "head": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Elemental_Lord.jpg/revision/latest?cb\u003d20220104081726",
-    "name": "Elemental Lord",
-    "heroid": 129,
-    "roadsortlabel": [
-      "",
-      "Jungle"
-    ],
-    "squarehead": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Elemental_Lord.jpg/revision/latest?cb\u003d20220104081726",
-    "sortlabel": [
-      "Fighter",
-      "Tank"
-    ]
-  },
-  "130": {
+  "128": {
     "head": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/kalea_icon.png",
     "name": "Kalea",
-    "heroid": 130,
+    "heroid": 128,
     "roadsortlabel": [
-      "",
+      "Exp Lane",
       "Roam"
     ],
     "squarehead": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/kalea_icon.png",
     "sortlabel": [
       "Fighter",
       "Support"
+    ]
+  },
+  "0": {
+    "head": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Elemental_Lord.jpg/revision/latest?cb\u003d20220104081726",
+    "name": "Elemental Lord",
+    "heroid": 0,
+    "roadsortlabel": [
+      "Jungle",
+      "Roam"
+    ],
+    "squarehead": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Elemental_Lord.jpg/revision/latest?cb\u003d20220104081726",
+    "sortlabel": [
+      "Support",
+      "Tank"
     ]
   }
 }
