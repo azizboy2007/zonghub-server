@@ -42,18 +42,18 @@
     "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_a34d4efbc83556361b484f5d3d6cd463.jpg"
   },
   "4": {
-    "heroid": 4,
+    "head": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20ALICE.jpg",
     "name": "Alice",
+    "heroid": 4,
     "roadsortlabel": [
-      "Exp Lane",
-      "Jungle"
+      "Jungle",
+      "Exp Lane"
     ],
+    "squarehead": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20ALICE.jpg",
     "sortlabel": [
       "Mage",
       "Tank"
-    ],
-    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_558cf35ad7d5f0cc4f0b4cbdf9498f9f.png",
-    "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_7135bd847a78dca0147e79c38666ba5b.jpg"
+    ]
   },
   "5": {
     "heroid": 5,
@@ -210,18 +210,18 @@
     "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_00844bbb210fe0884826629fb2ad5f27.jpg"
   },
   "16": {
-    "heroid": 16,
+    "head": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20ZILONG.jpg",
     "name": "Zilong",
+    "heroid": 16,
     "roadsortlabel": [
-      "Exp Lane",
-      ""
+      "",
+      "Exp Lane"
     ],
+    "squarehead": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20ZILONG.jpg",
     "sortlabel": [
-      "Fighter",
-      "Assassin"
-    ],
-    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
-    "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_754c164566eda94a8086593d9af23f46.jpg"
+      "Assassin",
+      "Mage"
+    ]
   },
   "17": {
     "heroid": 17,
@@ -350,18 +350,18 @@
     "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_1c0c51d1f28332cb1705ef28c49c90a9.jpg"
   },
   "26": {
-    "heroid": 26,
+    "head": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20CHOU.jpg",
     "name": "Chou",
+    "heroid": 26,
     "roadsortlabel": [
-      "Exp Lane",
+      "Jungle",
       "Roam"
     ],
+    "squarehead": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20CHOU.jpg",
     "sortlabel": [
       "Fighter",
       ""
-    ],
-    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_158209b180032c4564b8f3bde8c48888.png",
-    "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5a72a356046a7345112c52b79b7372e3.jpg"
+    ]
   },
   "27": {
     "heroid": 27,
@@ -392,18 +392,18 @@
     "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_cd0dfb56d9e1b111f5f8d6a2c80a7e46.jpg"
   },
   "29": {
-    "heroid": 29,
+    "head": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20RUBY.jpg",
     "name": "Ruby",
+    "heroid": 29,
     "roadsortlabel": [
-      "Exp Lane",
-      ""
+      "",
+      "Exp Lane"
     ],
+    "squarehead": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20RUBY.jpg",
     "sortlabel": [
       "Fighter",
       ""
-    ],
-    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4b96c75b136290576d849309722d4d20.png",
-    "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_48351f7507f74f98c8d2299b410fe2ff.jpg"
+    ]
   },
   "30": {
     "heroid": 30,
@@ -952,18 +952,18 @@
     "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_7b6102875702371070406f9bd0feb3f6.jpg"
   },
   "69": {
-    "heroid": 69,
+    "head": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20HANZ.jpg",
     "name": "Hanzo",
+    "heroid": 69,
     "roadsortlabel": [
-      "Jungle",
-      ""
+      "",
+      "Jungle"
     ],
+    "squarehead": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20HANZ.jpg",
     "sortlabel": [
-      "Assassin",
-      ""
-    ],
-    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b07dccc76d66453f7d5c779b1b0f9370.png",
-    "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_79f053a70517e5544b93b0070bc7807d.jpg"
+      "",
+      "Assassin"
+    ]
   },
   "70": {
     "heroid": 70,
@@ -1176,18 +1176,18 @@
     "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_d83c16e9dc3f3b5bf619250518a34d81.jpg"
   },
   "85": {
-    "heroid": 85,
+    "head": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20DYROTH.jpg",
     "name": "Dyrroth",
+    "heroid": 85,
     "roadsortlabel": [
-      "Exp Lane",
-      "Jungle"
+      "Jungle",
+      "Exp Lane"
     ],
+    "squarehead": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20DYROTH.jpg",
     "sortlabel": [
       "Fighter",
       ""
-    ],
-    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_050b3045a7fd2b37f1017557f5695ca6.png",
-    "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_7c963e904af6713c39623870a1fc7e71.jpg"
+    ]
   },
   "86": {
     "heroid": 86,
@@ -1316,18 +1316,18 @@
     "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_4e209cd7493f719891e723627e91628b.jpg"
   },
   "95": {
-    "heroid": 95,
+    "head": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20YZ.jpg",
     "name": "Yu Zhong",
+    "heroid": 95,
     "roadsortlabel": [
-      "Exp Lane",
-      ""
+      "",
+      "Exp Lane"
     ],
+    "squarehead": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20YZ.jpg",
     "sortlabel": [
       "Fighter",
       ""
-    ],
-    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
-    "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_c751a6b50bf2c583747097430c575fc9.jpg"
+    ]
   },
   "96": {
     "heroid": 96,
@@ -1400,18 +1400,18 @@
     "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_59bbe13e82041e67c6b1797b8776a461.jpg"
   },
   "101": {
-    "heroid": 101,
+    "head": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20YVE.jpg",
     "name": "Yve",
+    "heroid": 101,
     "roadsortlabel": [
       "Mid Lane",
       ""
     ],
+    "squarehead": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20YVE.jpg",
     "sortlabel": [
-      "Mage",
-      ""
-    ],
-    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
-    "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_58b166125e207a31bd2c8e57b3dc34d7.jpg"
+      "",
+      "Mage"
+    ]
   },
   "102": {
     "heroid": 102,
@@ -1442,18 +1442,18 @@
     "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_02466a857c46760a78265713eab7e39c.jpg"
   },
   "104": {
-    "heroid": 104,
+    "head": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20GLOO.jpg",
     "name": "Gloo",
+    "heroid": 104,
     "roadsortlabel": [
       "Exp Lane",
       "Roam"
     ],
+    "squarehead": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20GLOO.jpg",
     "sortlabel": [
-      "Tank",
-      ""
-    ],
-    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_25997baec7261115e697d2837a44182e.png",
-    "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_973cc7ce68b9e7b2a90a78e8ba7069b8.jpg"
+      "",
+      "Tank"
+    ]
   },
   "105": {
     "heroid": 105,
@@ -1470,18 +1470,18 @@
     "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_3ae0e1386765b20b92fce0757fda6083.jpg"
   },
   "106": {
-    "heroid": 106,
+    "head": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20PHOVE.jpg",
     "name": "Phoveus",
+    "heroid": 106,
     "roadsortlabel": [
-      "Exp Lane",
-      ""
+      "",
+      "Exp Lane"
     ],
+    "squarehead": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20PHOVE.jpg",
     "sortlabel": [
       "Fighter",
       ""
-    ],
-    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
-    "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_250c4be7ee7b3d5d17248d9e7050fb15.jpg"
+    ]
   },
   "107": {
     "heroid": 107,
@@ -1694,18 +1694,18 @@
     "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_edfaa19ee9ec75545eb74e675886059c.jpg"
   },
   "122": {
-    "heroid": 122,
+    "head": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20NOLAN.jpg",
     "name": "Nolan",
+    "heroid": 122,
     "roadsortlabel": [
-      "Jungle",
-      ""
+      "",
+      "Jungle"
     ],
+    "squarehead": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20NOLAN.jpg",
     "sortlabel": [
-      "Assassin",
-      ""
-    ],
-    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9012ee9f73fbb4db4e1953e5fb5172e1.png",
-    "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_77ac5c8f1a48a10e7c1beb78ac862c2e.jpg"
+      "",
+      "Assassin"
+    ]
   },
   "123": {
     "heroid": 123,
@@ -1789,20 +1789,6 @@
     "sortlabel": [
       "Fighter",
       "Support"
-    ]
-  },
-  "0": {
-    "head": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Elemental_Lord.jpg/revision/latest?cb\u003d20220104081726",
-    "name": "Elemental Lord",
-    "heroid": 0,
-    "roadsortlabel": [
-      "Jungle",
-      "Roam"
-    ],
-    "squarehead": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Elemental_Lord.jpg/revision/latest?cb\u003d20220104081726",
-    "sortlabel": [
-      "Support",
-      "Tank"
     ]
   }
 }
