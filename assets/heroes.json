@@ -602,18 +602,18 @@
     "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_8bdf0e2f05d6e7849c06ca9386c15349.jpg"
   },
   "44": {
-    "heroid": 44,
+    "head": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20GROCK.png",
     "name": "Grock",
+    "heroid": 44,
     "roadsortlabel": [
-      "Roam",
-      ""
+      "",
+      "Roam"
     ],
+    "squarehead": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20GROCK.png",
     "sortlabel": [
-      "Tank",
-      "Fighter"
-    ],
-    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_36822d5dd75500966a5e0febc7dff059.png",
-    "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_b1963659b31149ae0d4640ff2ad6a6cd.jpg"
+      "Fighter",
+      "Mage"
+    ]
   },
   "45": {
     "heroid": 45,
@@ -868,18 +868,18 @@
     "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_10e88c83ee50f042543e6bf497285028.jpg"
   },
   "63": {
-    "heroid": 63,
+    "head": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20SELENA.png",
     "name": "Selena",
+    "heroid": 63,
     "roadsortlabel": [
-      "Roam",
-      "Mid Lane"
+      "Mid Lane",
+      "Roam"
     ],
+    "squarehead": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20SELENA.png",
     "sortlabel": [
       "Assassin",
       "Mage"
-    ],
-    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c3f967121519ae40509c5b2fdf52b19d.png",
-    "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_c1eed4818def633691e406d12d51650c.jpg"
+    ]
   },
   "64": {
     "heroid": 64,
@@ -994,18 +994,18 @@
     "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_b0488bd296b732c713092abb9feb427c.jpg"
   },
   "72": {
-    "heroid": 72,
+    "head": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20THAMUZ.png",
     "name": "Thamuz",
+    "heroid": 72,
     "roadsortlabel": [
-      "Exp Lane",
-      ""
+      "",
+      "Exp Lane"
     ],
+    "squarehead": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20THAMUZ.png",
     "sortlabel": [
       "Fighter",
       ""
-    ],
-    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff2f7804144608bd495bc7aca9163c5e.png",
-    "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_0451a9cbf5db0669ca787a7102fd7499.jpg"
+    ]
   },
   "73": {
     "heroid": 73,
@@ -1610,18 +1610,18 @@
     "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_08ccab74114f009b1f5993aedd1dd7a1.jpg"
   },
   "116": {
-    "heroid": 116,
+    "head": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20JULIAN.png",
     "name": "Julian",
+    "heroid": 116,
     "roadsortlabel": [
-      "Jungle",
-      ""
+      "",
+      "Jungle"
     ],
+    "squarehead": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20JULIAN.png",
     "sortlabel": [
       "Fighter",
       "Mage"
-    ],
-    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5511ddc0ad2789b525f32ef572b017eb.png",
-    "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_8359a497952c5215b70b47373e168cfe.jpg"
+    ]
   },
   "117": {
     "heroid": 117,
@@ -1722,18 +1722,18 @@
     "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_d83b2e9d43ebc7247cba68643a411bd3.jpg"
   },
   "124": {
-    "heroid": 124,
+    "head": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20CHIP.png",
     "name": "Chip",
+    "heroid": 124,
     "roadsortlabel": [
-      "Roam",
-      ""
+      "",
+      "Roam"
     ],
+    "squarehead": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20CHIP.png",
     "sortlabel": [
       "Support",
       "Tank"
-    ],
-    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
-    "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_2d61834632c94c00344b2ae0e08354e2.jpg"
+    ]
   },
   "125": {
     "heroid": 125,
