@@ -14,18 +14,18 @@
     "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_7c5b221cf1f95a1f06da1b7b644adfec.jpg"
   },
   "2": {
-    "heroid": 2,
+    "head": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/ICON%20BALMOND.png",
     "name": "Balmond",
+    "heroid": 2,
     "roadsortlabel": [
-      "Jungle",
-      ""
+      "",
+      "Jungle"
     ],
+    "squarehead": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/ICON%20BALMOND.png",
     "sortlabel": [
       "Fighter",
       ""
-    ],
-    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4df4ce8528166d6e1cc94480f4f0e910.png",
-    "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_78258580fdcd4461a47331ddf0526bdd.jpg"
+    ]
   },
   "3": {
     "heroid": 3,
@@ -294,18 +294,18 @@
     "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_41f3b77867e66780da9b5890dfb9964a.jpg"
   },
   "22": {
-    "heroid": 22,
+    "head": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/ICON%20FREYA.png",
     "name": "Freya",
+    "heroid": 22,
     "roadsortlabel": [
-      "Exp Lane",
-      ""
+      "",
+      "Exp Lane"
     ],
+    "squarehead": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/ICON%20FREYA.png",
     "sortlabel": [
       "Fighter",
       ""
-    ],
-    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85ecfab713c877196d4b9e44a2aa2f6a.png",
-    "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_0059b3d4c9f5db098fa053074d27e7ec.jpg"
+    ]
   },
   "23": {
     "heroid": 23,
