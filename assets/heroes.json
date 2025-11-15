@@ -219,8 +219,8 @@
     ],
     "squarehead": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20ZILONG.jpg",
     "sortlabel": [
-      "Assassin",
-      "Mage"
+      "Fighter",
+      "Assassin"
     ]
   },
   "17": {
@@ -612,7 +612,7 @@
     "squarehead": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20GROCK.png",
     "sortlabel": [
       "Fighter",
-      "Mage"
+      "Tank"
     ]
   },
   "45": {
