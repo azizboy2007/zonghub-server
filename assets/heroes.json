@@ -1778,17 +1778,45 @@
     ]
   },
   "128": {
-    "head": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/kalea_icon.png",
+    "head": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20KALEA.jpg",
     "name": "Kalea",
     "heroid": 128,
     "roadsortlabel": [
-      "Exp Lane",
+      "",
       "Roam"
     ],
-    "squarehead": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/kalea_icon.png",
+    "squarehead": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20KALEA.jpg",
     "sortlabel": [
       "Fighter",
       "Support"
+    ]
+  },
+  "129": {
+    "head": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ZETIAN.jpg",
+    "name": "Zetian",
+    "heroid": 129,
+    "roadsortlabel": [
+      "Mid Lane",
+      ""
+    ],
+    "squarehead": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ZETIAN.jpg",
+    "sortlabel": [
+      "",
+      "Mage"
+    ]
+  },
+  "130": {
+    "head": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20SORA.jpg",
+    "name": "Sora",
+    "heroid": 130,
+    "roadsortlabel": [
+      "Jungle",
+      "Exp Lane"
+    ],
+    "squarehead": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20SORA.jpg",
+    "sortlabel": [
+      "Fighter",
+      "Assassin"
     ]
   }
 }
