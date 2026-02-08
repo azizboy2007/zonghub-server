@@ -196,18 +196,18 @@
     "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_f5298620e2902c1c15fb11d5962486f2.jpg"
   },
   "15": {
-    "heroid": 15,
+    "head": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/icon_eudora.jpg",
     "name": "Eudora",
+    "heroid": 15,
     "roadsortlabel": [
       "Mid Lane",
       ""
     ],
+    "squarehead": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/icon_eudora.jpg",
     "sortlabel": [
-      "Mage",
-      ""
-    ],
-    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60956060c4cbb86f3c6343da05b70568.png",
-    "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_00844bbb210fe0884826629fb2ad5f27.jpg"
+      "",
+      "Mage"
+    ]
   },
   "16": {
     "head": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20ZILONG.jpg",
