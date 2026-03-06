@@ -1764,14 +1764,14 @@
     ]
   },
   "127": {
-    "head": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250113_190035.jpg",
-    "name": "Lucas",
+    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_63040edd0cf15b815fcbbb8b2d08d7f7.png",
+    "name": "Lukas",
     "heroid": 127,
     "roadsortlabel": [
-      "",
-      "Exp Lane"
+      "Jungle",
+      "Roam"
     ],
-    "squarehead": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250113_190035.jpg",
+    "squarehead": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_63040edd0cf15b815fcbbb8b2d08d7f7.png",
     "sortlabel": [
       "Fighter",
       ""
@@ -1806,14 +1806,28 @@
     ]
   },
   "130": {
-    "head": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20SORA.jpg",
-    "name": "Sora",
+    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+    "name": "Obsidia",
     "heroid": 130,
     "roadsortlabel": [
-      "Jungle",
+      "",
+      "Gold Lane"
+    ],
+    "squarehead": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+    "sortlabel": [
+      "",
+      "Marksman"
+    ]
+  },
+  "131": {
+    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_8143d7bbd4318d7c699908e808de885e.png",
+    "name": "Sora",
+    "heroid": 131,
+    "roadsortlabel": [
+      "",
       "Exp Lane"
     ],
-    "squarehead": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20SORA.jpg",
+    "squarehead": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_8143d7bbd4318d7c699908e808de885e.png",
     "sortlabel": [
       "Fighter",
       "Assassin"
