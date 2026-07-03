@@ -1820,16 +1820,44 @@
     ]
   },
   "131": {
-    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_8143d7bbd4318d7c699908e808de885e.png",
+    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_8143d7bbd4318d7c699908e808de885e.png",
     "name": "Sora",
     "heroid": 131,
     "roadsortlabel": [
       "",
       "Exp Lane"
     ],
-    "squarehead": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_8143d7bbd4318d7c699908e808de885e.png",
+    "squarehead": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_8143d7bbd4318d7c699908e808de885e.png",
     "sortlabel": [
       "Fighter",
+      "Assassin"
+    ]
+  },
+  "132": {
+    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_df7603c292198bf4aa7b551d401ea5c1.png",
+    "name": "Marcel",
+    "heroid": 132,
+    "roadsortlabel": [
+      "",
+      "Roam"
+    ],
+    "squarehead": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_df7603c292198bf4aa7b551d401ea5c1.png",
+    "sortlabel": [
+      "",
+      "Support"
+    ]
+  },
+  "133": {
+    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_71224844b111f09367df00e4f9b97753.png",
+    "name": "Hirara",
+    "heroid": 133,
+    "roadsortlabel": [
+      "",
+      "Jungle"
+    ],
+    "squarehead": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_71224844b111f09367df00e4f9b97753.png",
+    "sortlabel": [
+      "",
       "Assassin"
     ]
   }
